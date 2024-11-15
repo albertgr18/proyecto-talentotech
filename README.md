@@ -1,4 +1,4 @@
-# Sabores de mi Argentinas
+# Sabores de mi Argentina
 
 Este es un sitio web que presenta una empresa ficticia de empanadas argentinas. El objetivo principal es mostrar diferentes tipos de empanadas típicas de distintas regiones de Argentina.
 
